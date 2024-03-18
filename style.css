@@ -1,0 +1,24 @@
+
+	body {
+	  
+           background-image: url(100.gif);
+            background-repeat: no-repeat;
+            background-attachment: fixed;
+            background-size: cover; 
+            background-position: center;
+        }
+
+	img{ 
+        background-repeat: no-repeat;
+            background-attachment: fixed;
+            background-size: 500px;
+            background-position: center;
+	}
+   audio {
+            display: block;
+            margin: 10px auto;
+            width: 100%;
+        }
+    p{font-size: 130%;
+    }
+
